@@ -1,8 +1,5 @@
 import { } from 'react'
-import banner1 from '../assets/banner1.svg';
-import banner2 from '../assets/banner2.svg';
-import banner3 from '../assets/banner3.svg';
-import Logo from '../assets/Logo.png';
+import Logo from '../assets/Captura_de_tela_2023-11-22_200811-removebg-preview.png';
 import Enfeite from '../assets/Enfeite.svg';
 import Enfeite2 from '../assets/Enfeite2.svg';
 import ImagemIngredientes from '../assets/ImagemIngredientes.svg';
@@ -14,32 +11,10 @@ function Home() {
     return (
         <>
             <main className='main'>
-                <div id="carouselExampleAutoplaying" className="carousel slide banner" data-bs-ride="carousel">
-                    <div className="carousel-inner">
-                        <div className="carousel-item active">
-                            <img src={banner1} className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src={banner2} className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src={banner3} className="d-block w-100" alt="..."></img>
-                        </div>
-                    </div>
-                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span className="visually-hidden">Previous</span>
-                    </button>
-                    <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                        <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span className="visually-hidden">Next</span>
-                    </button>
-                </div>
-
                 <section className='sobre_nos'>
                     <img src={Logo} alt='Logo da empresa' className='sobre_nos-logo'/>
                     <div className="sobre_nos-textos">
-                        <h1 className="sobre_nos-textos-titulo">Sobre nós</h1>
+                        <h1 className="sobre_nos-textos-titulo">Problema</h1>
                         <p className="sobre_nos-textos-texto">O projeto KIT ON nasceu da ideia de diminuir a quantidade de lixo nas ruas. E para fazer isso, escolhemos o método de conscientizar as pessoas, porém, não entregando informações massantes e desncessárias para o público, e sim, de maneira interativa. De forma que os usuários teriam um meio de administrar seus alimentos e receber informações sobre o formas de utiliza-lo e a maneira correta de descarta-lo, junto de avisos sobre a importância o descarte de lixo correto.</p>
                     </div>
                 </section>
@@ -47,7 +22,7 @@ function Home() {
                 <section className='importancia'>
                     <article className='importancia_div'>
                         <div className='importancia_textos'>
-                            <h1 className='importancia_titulo'>Importância</h1>
+                            <h1 className='importancia_titulo'>Objetivo</h1>
                             <p className="importancia-texto">Descartar o lixo de maneira correta pode trazer diversos benefícios para toda a humanidade. Quando se é separado o lixo de maneira correta, se facilita os meios de tratamento deles e diminuem a chance de ter impactos nocivos para o ambiente.
                             </p>
                         </div>
@@ -62,7 +37,7 @@ function Home() {
 
                 <section className="como_trabalhamos">
                     <div className="como_trabalhamos-info">
-                        <h1 className="como_trabalhamos-titulo">Como trabalhamos</h1>
+                        <h1 className="como_trabalhamos-titulo">Como funcionamos?</h1>
                         <p className="como_trabalhamos-texto">Ao acessar a rede KIT ON, você poderá registrar todos os alimentos presentes na sua casa, sendo necessário junto deles adicionar suas respectivas datas de validade. Após isso, nós separaremos receitas que podem ser cozinhadas utilizando os ingredientes registrados.</p>
                         <p className="como_trabalhamos-texto2">E caso a data de validade se aproxime, você receberá a avisos, a forma correta de descarta-lo e a importância disso.</p>
                         <p className="como_trabalhamos-texto3">Para aproveitar nossos benefícios, basta entrar na rede KIT ON:</p>

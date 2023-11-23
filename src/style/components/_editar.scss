@@ -13,22 +13,22 @@
         gap: 2rem;
         margin: 1rem;
         .form-item{
-            color: $verde
+            color: #2F405A
         }
         .editar-form-datas{
             display: flex;
             gap: 1rem
         }
         .editar-button{
-            background-color: $verde;
+            background-color: #2F405A;
             color: $branco;
             font-family: var(--fonte-principal);
             margin: 3rem 0;
         }
         .editar-button:hover{
-            color: $verde;
+            color: #2F405A;
             background-color: $branco;
-            border: 0.8px solid $verde;
+            border: 0.8px solid #2F405A;
         }
     }
 }

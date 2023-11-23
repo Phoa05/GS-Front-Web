@@ -14,7 +14,7 @@
 }
 
 .modal-button{
-    background-color: $verde;
+    background-color: #2F405A;
     color: $branco;
     font-family: var(--fonte-principal);
     margin-bottom: 3rem;
@@ -22,9 +22,9 @@
 }
 
 .modal-button:hover{
-    color: $verde;
+    color: #2F405A;
     background-color: $branco;
-    border: 0.8px solid $verde;
+    border: 0.8px solid #2F405A;
 }
 
 .armario-form-titulo{
@@ -45,7 +45,7 @@
         gap:2rem;
         width: 400px;
         .form-embalagens{
-            color: $verde
+            color: #2F405A
         }
     }
     .armario-form-datas{
@@ -59,10 +59,10 @@
             margin-bottom: 3.25rem;
         }
         .armario-form-datas-data{
-            color: $verde
+            color: #2F405A
         }
         .armario-form-datas-data::placeholder{
-            color: $verde
+            color: #2F405A
         }
         
     }
@@ -72,18 +72,18 @@
         }
     }
     .armario-form-nome::placeholder{
-        color: $verde; 
+        color: #2F405A; 
     }
     .armario-form-button{
-        background-color: $verde;
+        background-color: #2F405A;
         color: $branco;
         font-family: var(--fonte-principal);
         margin: 3rem 0;
     }
     .armario-form-button:hover{
-        color: $verde;
+        color: #2F405A;
         background-color: $branco;
-        border: 0.8px solid $verde;
+        border: 0.8px solid #2F405A;
     }
 
 
@@ -110,7 +110,7 @@
         }
     }
     .armario-table-title{
-        color: $verde;
+        color: #2F405A;
     }
 }
 

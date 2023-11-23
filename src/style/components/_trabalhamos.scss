@@ -16,18 +16,18 @@
         margin-left: 2rem;
         .como_trabalhamos-button{
             padding: 0.8rem 4.3rem;
-            background-color: $verde;
+            background-color: #2F405A;
             color: $branco;
             font-size: 25px;
             font-family: $fonte-secundaria;
-            border: 0.2rem solid $verde;
+            border: 0.2rem solid #2F405A;
         }
     }
     
     .como_trabalhamos-button:hover{
         background-color: $branco;
-        color: $verde;
-        border: 0.2rem solid $verde;
+        color: #2F405A;
+        border: 0.2rem solid #2F405A;
     }
 
     @media screen and (max-width: 850px){

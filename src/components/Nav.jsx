@@ -1,6 +1,6 @@
 import { } from 'react'
 import { Link, useNavigate } from 'react-router-dom';
-import LogoBranco from '../assets/LogoBranco.png'
+import LogoBranco from '../assets/Captura_de_tela_2023-11-22_200811.png'
 import iconuser from '../assets/iconuser.png'
 
 function Nav() {
@@ -17,14 +17,14 @@ function Nav() {
         <>
             <nav class="navbar navbar-expand-lg">
                 <div class="container-fluid">
-                    <Link to='/' className='link-home'><img src={LogoBranco} width="50" height="40" /><p className='header_titulo'><strong className='header_titulo_destaque'>KIT</strong> ON</p></Link>
+                    <Link to='/' className='link-home'><img src={LogoBranco} width="75" height="75" /><p className='header_titulo'><strong className='header_titulo_destaque'>MedConnect</strong></p></Link>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav lista-ancoras">
                             <li class="nav-item">
-                                <Link to="armario" className='nav-link'>Seu Armário</Link>
+                                <Link to="info" className='nav-link'>Meus Pacientes</Link>
                             </li>
                             <li class="nav-item">
                                 <Link to="contato" className='nav-link'>Contato</Link>

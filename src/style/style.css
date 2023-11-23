@@ -27,7 +27,7 @@ p {
 }
 
 nav {
-  background-color: #2D9471;
+  background-color:#2F405A;
   display: flex;
   align-items: center;
 }
@@ -169,16 +169,16 @@ nav .nav-drowdown-login {
 }
 .como_trabalhamos .como_trabalhamos-botoes .como_trabalhamos-button {
   padding: 0.8rem 4.3rem;
-  background-color: #2D9471;
+  background-color: #2F405A;
   color: #FFFFFF;
   font-size: 25px;
   font-family: Josefin Sans;
-  border: 0.2rem solid #2D9471;
+  border: 0.2rem solid #2F405A;
 }
 .como_trabalhamos .como_trabalhamos-button:hover {
   background-color: #FFFFFF;
-  color: #2D9471;
-  border: 0.2rem solid #2D9471;
+  color:#2F405A;
+  border: 0.2rem solid #2F405A;
 }
 @media screen and (max-width: 850px) {
   .como_trabalhamos .trabalhamos_enfeite {
@@ -234,11 +234,11 @@ nav .nav-drowdown-login {
 .footer {
   background-color: #FFFFFF;
   align-items: center;
-  border-top: 1px solid #2D9471;
+  border-top: 1px solid #2F405A;
 }
 .footer .footer-link {
   text-decoration: none;
-  color: #2D9471;
+  color: #2F405A;
 }
 
 .armario {
@@ -255,7 +255,7 @@ nav .nav-drowdown-login {
 }
 
 .modal-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   color: #FFFFFF;
   font-family: var(--fonte-principal);
   margin-bottom: 3rem;
@@ -263,9 +263,9 @@ nav .nav-drowdown-login {
 }
 
 .modal-button:hover {
-  color: #2D9471;
+  color: #2F405A;
   background-color: #FFFFFF;
-  border: 0.8px solid #2D9471;
+  border: 0.8px solid #2F405A;
 }
 
 .armario-form-titulo {
@@ -287,7 +287,7 @@ nav .nav-drowdown-login {
   width: 400px;
 }
 .armario-form .armario-form-info .form-embalagens {
-  color: #2D9471;
+  color: #2F405A;
 }
 .armario-form .armario-form-datas {
   display: flex;
@@ -301,13 +301,13 @@ nav .nav-drowdown-login {
   margin-bottom: 3.25rem;
 }
 .armario-form .armario-form-datas .armario-form-datas-data {
-  color: #2D9471;
+  color: #2F405A;
 }
 .armario-form .armario-form-datas .armario-form-datas-data::-moz-placeholder {
-  color: #2D9471;
+  color: #2F405A;
 }
 .armario-form .armario-form-datas .armario-form-datas-data::placeholder {
-  color: #2D9471;
+  color: #2F405A;
 }
 @media screen and (max-width: 1024px) {
   .armario-form .armario-form-datas {
@@ -315,21 +315,21 @@ nav .nav-drowdown-login {
   }
 }
 .armario-form .armario-form-nome::-moz-placeholder {
-  color: #2D9471;
+  color: #2F405A;
 }
 .armario-form .armario-form-nome::placeholder {
-  color: #2D9471;
+  color: #2F405A;
 }
 .armario-form .armario-form-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   color: #FFFFFF;
   font-family: var(--fonte-principal);
   margin: 3rem 0;
 }
 .armario-form .armario-form-button:hover {
-  color: #2D9471;
+  color: #2F405A;
   background-color: #FFFFFF;
-  border: 0.8px solid #2D9471;
+  border: 0.8px solid #2F405A;
 }
 
 .armario-table-info {
@@ -353,7 +353,7 @@ nav .nav-drowdown-login {
   }
 }
 .armario-table-info .armario-table-title {
-  color: #2D9471;
+  color: #2F405A;
 }
 
 .editarproduto {
@@ -371,22 +371,22 @@ nav .nav-drowdown-login {
   margin: 1rem;
 }
 .editarproduto .editar-form .form-item {
-  color: #2D9471;
+  color: #2F405A;
 }
 .editarproduto .editar-form .editar-form-datas {
   display: flex;
   gap: 1rem;
 }
 .editarproduto .editar-form .editar-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   color: #FFFFFF;
   font-family: var(--fonte-principal);
   margin: 3rem 0;
 }
 .editarproduto .editar-form .editar-button:hover {
-  color: #2D9471;
+  color: #2F405A;
   background-color: #FFFFFF;
-  border: 0.8px solid #2D9471;
+  border: 0.8px solid #2F405A;
 }
 
 .excluirproduto {
@@ -402,14 +402,14 @@ nav .nav-drowdown-login {
   margin-bottom: 5rem;
 }
 .excluirproduto .excluir-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   color: #FFFFFF;
   font-family: var(--fonte-principal);
 }
 .excluirproduto .excluir-button:hover {
-  color: #2D9471;
+  color: #2F405A;
   background-color: #FFFFFF;
-  border: 0.8px solid #2D9471;
+  border: 0.8px solid #2F405A;
 }
 
 .contato {
@@ -444,7 +444,7 @@ nav .nav-drowdown-login {
   height: 150px;
 }
 .contato .contato-dados .contato-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   font-size: 20px;
   color: #FFFFFF;
   padding: 1.5rem 3.5rem;
@@ -485,19 +485,19 @@ nav .nav-drowdown-login {
   font-weight: 700;
 }
 .login .login-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   font-size: 20px;
   color: #FFFFFF;
   padding: 0.8rem 2rem;
   margin: 2rem 0;
 }
 .login .login-button:hover {
-  color: #2D9471;
-  border: 0.8px solid #2D9471;
+  color: #2F405A;
+  border: 0.8px solid #2F405A;
   background-color: #FFFFFF;
 }
 .login .texto-cadastro-cadastre_se {
-  color: #2D9471;
+  color: #2F405A;
   text-decoration: none;
 }
 
@@ -537,7 +537,7 @@ nav .nav-drowdown-login {
 }
 
 .cadastro-button {
-  background-color: #2D9471;
+  background-color: #2F405A;
   font-size: 20px;
   color: #FFFFFF;
   padding: 0.8rem 2rem;
@@ -545,8 +545,8 @@ nav .nav-drowdown-login {
 }
 
 .cadastro-button:hover {
-  color: #2D9471;
-  border: 0.8px solid #2D9471;
+  color:  #2F405A;
+  border: 0.8px solid #2F405A;
 }
 
 .cadastro-endereco-section {

@@ -12,13 +12,13 @@
         margin-bottom: 5rem;
     }
     .excluir-button{
-        background-color: $verde;
+        background-color: #2F405A;
         color: $branco;
         font-family: var(--fonte-principal);
     }
     .excluir-button:hover{
-        color: $verde;
+        color: #2F405A;
         background-color: $branco;
-        border: 0.8px solid $verde;
+        border: 0.8px solid #2F405A;
     }
 }
