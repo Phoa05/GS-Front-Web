@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom';
-import Logo from '../assets/Logo.png';
+import Logo from '../assets/Captura_de_tela_2023-11-22_200811-removebg-preview.png';
 import { useForm } from 'react-hook-form'
 
 function Cadastro() {
@@ -82,7 +82,7 @@ function Cadastro() {
                     <form className='cadastro-card' onSubmit={handleSubmit}>
                         <div className='cadastro-enfeite'>
                             <img src={Logo} className='cadastro-enfeite-img'></img>
-                            <p className='cadastro-enfeite-texto'>Sejá bem-vindo a KIT ON!</p>
+                            <p className='cadastro-enfeite-texto'>Sejá bem-vindo ao MedConnect!</p>
                         </div>
                         <div className='cadastro-dados'>
                             <div className="mb-3 cadastro-nome">
