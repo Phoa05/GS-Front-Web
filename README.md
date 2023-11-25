@@ -20,3 +20,4 @@ O sistema possui um login admin salvo para teste. No login utilize:
 
 
 Link site:
+https://medconnect-gs.netlify.app/
