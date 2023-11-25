@@ -3,7 +3,7 @@ Danilo Urze RM99465
 Pedro Ananias RM550689
 Instruções:
 
-JSON server utilizado para Login não funciona em vercel por se basear de um servidor local da máquina.
+JSON server utilizado para Login não funciona em netlify por se basear de um servidor local da máquina.
 
 É necessário acionar o dados.json para usar o sistema de login. Para testa-lo:
 
