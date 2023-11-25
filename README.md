@@ -1,4 +1,4 @@
-<h2>Integrandes:</h2><br>
+<h2>Integrantes:</h2><br>
 -Danilo Urze RM99465<br>
 -Pedro Ananias RM550689<br>
 <h2>Instruções:</h2>
