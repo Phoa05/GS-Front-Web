@@ -1,6 +1,6 @@
 Integrandes:
-Danilo Urze RM99465
-Pedro Ananias RM550689
+-Danilo Urze RM99465
+-Pedro Ananias RM550689
 Instruções:
 
 JSON server utilizado para Login não funciona em netlify por se basear de um servidor local da máquina.
