@@ -1,6 +1,6 @@
 import { } from 'react'
 import Logo from '../assets/Captura_de_tela_2023-11-22_200811-removebg-preview.png';
-import Enfeite from '../assets/captura de tela 2023-11-23 202133.png';
+import Enfeite from '../assets/enfeite.png';
 import Enfeite2 from '../assets/bagulho vermelho .png';
 import ImagemIngredientes from '../assets/medico1.png';
 import ImagemReceitas from '../assets/medico2.png';

@@ -25,7 +25,7 @@ function Login() {
         Math.random().toString(16).substring(2);
       sessionStorage.setItem('usuario', user.current.value);
       sessionStorage.setItem('senha', token);
-      navigate('/armario');
+      navigate('/info');
     } else {
       alert('Dados inválidos.');
     }
